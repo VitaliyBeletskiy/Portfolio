@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Vitaliy Beletskiy
 
-You can use the [editor on GitHub](https://github.com/VitaliyBeletskiy/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![photo](Photo_Vit_250.jpg)<br/>
+LinkedIn: <https://www.linkedin.com/in/vitaliy-beletskiy><br/>
+GitHub: <https://github.com/VitaliyBeletskiy><br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computers engineer with diverse and extensive exposure to software and hardware development and management, as well as software-hardware integration. Experienced in telecom, high performance computing and security systems. Effective team leader in multicultural context. Tenacious project manager. Fast and eager learner. Passionate about my work.
 
-### Markdown
+##### EXPERIENCE WITH
+- **Mobile software development: iOS (Swift, UIKit, SwiftUI) and Android (Kotlin, Jetpack)**
+- **Software development: С#, ASP.NET MVC 5, C, VBA, HTML/CSS, PHP**
+- Telecom (Ericsson) and network (Cisco) equipment, protocol analyzers (Acterna,Tektronix)
+- Setup and maintenance of Ubuntu Server OS, Windows Server OS 
+- Setup and support of Intrusion Detection (DSC), CCTV (various makers) and Video Management & Analytics (Macroscop, Eocortex), Access Control (RBH, Allegion, Entrypass, Stanley, Matrix) systems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+### BookTheCut
+[GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
 
-```markdown
-Syntax highlighted code block
+### Just Bulls&Cows
+[GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI) [AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
 
-# Header 1
-## Header 2
-### Header 3
+### AnyDice
+[GitHub](https://github.com/VitaliyBeletskiy/AnyDice) [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VitaliyBeletskiy/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Worm
+[GitHub](https://github.com/VitaliyBeletskiy/Worm)
