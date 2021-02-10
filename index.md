@@ -18,10 +18,10 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 BookTheCut is a client-side booking application which helps to book a visit to a beauty salon or a barbershop.<br/>
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
 
-<h3>Just Bulls & Cows</h3> [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
+## Just Bulls & Cows
 Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.<br/>
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI)<br/>
-Just Bulls & Cows on [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
+Just Bulls & Cows on [AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
 
 ### AnyDice
 AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.<br/>
