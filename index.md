@@ -14,7 +14,7 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 - Setup and support of Intrusion Detection (DSC), CCTV (various makers) and Video Management & Analytics (Macroscop, Eocortex), Access Control (RBH, Allegion, Entrypass, Stanley, Matrix) systems
 
 ## Projects
-### BookTheCut
+<h3>BookTheCut</h3>
 BookTheCut is a client-side booking application which helps to book a visit to a beauty salon or a barbershop.<br/>
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
 
