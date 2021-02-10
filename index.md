@@ -20,11 +20,13 @@ More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy
 
 <h3>Just Bulls & Cows</h3> [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
 Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.<br/>
-More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI) [AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI)
+Just Bulls & Cows on [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
 
 ### AnyDice
 AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.<br/>
-More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/AnyDice) [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/AnyDice)<br/>
+AnyDice on [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
 
 ### Worm
 More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/Worm)
