@@ -15,13 +15,16 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 
 ## Projects
 ### BookTheCut
-[GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
+BookTheCut is a client-side booking application which helps to book a visit to a beauty salon or a barbershop.<br/>
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BookTheCut_Swift)
 
-### Just Bulls&Cows
-[GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI) [AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
+### Just Bulls & Cows
+Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.<br/>
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_SwiftUI) [AppStore](https://apps.apple.com/us/app/just-bulls-cows/id1546216624)
 
 ### AnyDice
-[GitHub](https://github.com/VitaliyBeletskiy/AnyDice) [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
+AnyDice is a simple and lightweight app that allows to roll any number of dices with up to 50 faces and keep track of the rolls results.<br/>
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/AnyDice) [AppStore](https://apps.apple.com/us/app/anydice/id1540270825)
 
 ### Worm
-[GitHub](https://github.com/VitaliyBeletskiy/Worm)
+More information and screenshots on [GitHub](https://github.com/VitaliyBeletskiy/Worm)
