@@ -9,6 +9,7 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 ##### EXPERIENCE WITH
 - **Mobile software development: Android (Kotlin, Jetpack, Java) and iOS (Swift, UIKit, SwiftUI)**
 - **Software development: С#, ASP.NET, C, VBA, HTML/CSS, PHP**
+- **Databases: SQL (MS SQL Server, MySQL/MariaDB), noSQL (Firebase Database)**
 - Telecom (Ericsson) and network (Cisco) equipment, protocol analyzers (Acterna,Tektronix)
 - Setup and maintenance of Ubuntu Server OS, Windows Server OS 
 - Setup and support of Intrusion Detection (DSC), CCTV (various makers) and Video Management & Analytics (Macroscop, Eocortex), Access Control (RBH, Allegion, Entrypass, Stanley, Matrix) systems
