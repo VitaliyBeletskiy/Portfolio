@@ -23,6 +23,7 @@ The app counts scores during Darts training session.<br/>
 ### Just Bulls & Cows (Android)
 Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.<br/>
 [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_kotlin)<br/>
+[Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.bullscows)<br/>
 **Tags:** Kotlin, Navigation, ViewModel, LiveData, Two-way Data Binding, Coroutines
 
 ### BookTheCut (iOS)
