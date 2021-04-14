@@ -15,9 +15,10 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 - Setup and support of Intrusion Detection (DSC), CCTV (various makers) and Video Management & Analytics (Macroscop, Eocortex), Access Control (RBH, Allegion, Entrypass, Stanley, Matrix) systems
 
 ## Projects
-### Darts Trainig Calculator (Android) (work in progress)
+### Darts Trainig Calculator (Android)
 The app counts scores during Darts training session.<br/>
 [GitHub](https://github.com/VitaliyBeletskiy/DartsTrainingCalculator_Android)<br/>
+[Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.dartstrainingcalculator) (in review so far)<br/>
 **Tags:** Kotlin, Navigation, ViewModel, LiveData, Two-way Data Binding, Room, Coroutines, Preference
 
 ### Just Bulls & Cows (Android)
