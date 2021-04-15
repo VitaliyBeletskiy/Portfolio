@@ -19,13 +19,13 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 The app counts scores during Darts training session.<br/>
 [GitHub](https://github.com/VitaliyBeletskiy/DartsTrainingCalculator_Android)<br/>
 [Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.dartstrainingcalculator) (in review so far)<br/>
-**Tags:** Kotlin, Navigation, ViewModel, LiveData, Two-way Data Binding, Room, Coroutines, Preference
+**Tags:** Kotlin, Navigation, Safe Args, (Shared) ViewModel, LiveData, Two-way Data Binding (Binding Adapters), Room, Coroutines, Preference
 
 ### Just Bulls & Cows (Android)
 Just Bulls & Cows is a simple logical game. The goal of the game is to guess the the secret number with a minimal number of attempts.<br/>
 [GitHub](https://github.com/VitaliyBeletskiy/BullsAndCows_kotlin)<br/>
 [Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.bullscows)<br/>
-**Tags:** Kotlin, Navigation, ViewModel, LiveData, Two-way Data Binding, Coroutines
+**Tags:** Kotlin, Navigation, Safe Args, ViewModel, LiveData, Two-way Data Binding (Binding Adapters), Coroutines
 
 ### BookTheCut (iOS)
 BookTheCut is a client-side booking application which helps to book a visit to a beauty salon or a barbershop.<br/>
