@@ -18,7 +18,7 @@ Computers engineer with diverse and extensive exposure to software and hardware 
 ### Darts Trainig Calculator (Android)
 The app counts scores during Darts training session.<br/>
 [GitHub](https://github.com/VitaliyBeletskiy/DartsTrainingCalculator_Android)<br/>
-[Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.dartstrainingcalculator) (in review so far)<br/>
+[Google Play](https://play.google.com/store/apps/details?id=com.beletskiy.dartstrainingcalculator)<br/>
 **Tags:** Kotlin, Navigation, Safe Args, (Shared) ViewModel, LiveData, Two-way Data Binding (Binding Adapters), Room, Coroutines, Preference
 
 ### Just Bulls & Cows (Android)
